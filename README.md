@@ -36,11 +36,17 @@ To identify and quantify the influence of key demographic characteristics—such
 - Model accuracy: ~66.8% (test set)
 - Pseudo R² (McFadden): 0.0366
 
-## 📁 Repository Structure
-<pre> ``` employment-demographics-analysis/ ├── final_project_with_annotations.R # R script with full analysis and annotations ├── Stats_final.pptx.pdf # Final presentation slides (PDF) ├── README.md # Project overview and documentation ``` </pre>
-
 ## 📌 Insights & Implications
 
 - Employment disparities persist for Mexican immigrants and women, even in a high-employment labor pool.
 - Policymakers can use these results to design more equitable employment access programs and address systemic disparities in the labor market.
+
+## 📁 Repository Structure
+```bash
+employment-demographics-analysis/
+├── final_project_with_annotations.R     # R script with full analysis and annotations
+├── Stats_final.pptx.pdf                 # Final presentation slides (PDF)
+├── README.md                            # Project overview and documentation
+
+
 
