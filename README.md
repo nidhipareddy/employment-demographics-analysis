@@ -37,10 +37,7 @@ To identify and quantify the influence of key demographic characteristics—such
 - Pseudo R² (McFadden): 0.0366
 
 ## 📁 Repository Structure
-employment-demographics-analysis/
-├── final_project_with_annotations.R     # R script with full analysis and annotations
-├── Stats_final.pptx.pdf                 # Final presentation slides (PDF)
-├── README.md                            # Project overview and documentation
+``` employment-demographics-analysis/ ├── final_project_with_annotations.R # R script with full analysis and annotations ├── Stats_final.pptx.pdf # Final presentation slides (PDF) ├── README.md # Project overview and documentation ```
 
 ## 📌 Insights & Implications
 
